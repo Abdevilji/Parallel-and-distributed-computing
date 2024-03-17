@@ -1,1 +1,4 @@
 # Parallel-and-distributed-computing
+- **Parallel Coding**: Tasks are broken down into smaller parts and executed simultaneously on multiple processors or cores within a single machine. This approach allows for high computational power within a single machine and is commonly utilized by developers for tasks that benefit from shared memory.
+- **Distributed Coding**: Tasks are distributed across multiple computers connected via a network, with each computer working independently on its portion of the task. Developers employ this approach for tasks that require large-scale processing, fault tolerance, and collaboration between multiple machines. It enables better scalability by leveraging the resources of multiple machines.
+- **Communication**: In parallel coding, communication typically occurs through shared memory, while in distributed coding, network communication protocols are used.
